@@ -1,0 +1,14 @@
+
+@font-face {
+    font-family: "Bar";
+    src: url("/fonte/barbie/Barbie.otf");
+  }
+#cabecalho{
+  background-color: #FF3074;
+}
+#menu{
+  background-color: #FF3074;
+  font-family: Bar;
+  color: white;
+  font-size: 25px;
+}
