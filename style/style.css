@@ -1,14 +1,27 @@
-
 @font-face {
-    font-family: "Bar";
-    src: url("/fonte/barbie/Barbie.otf");
-  }
-#cabecalho{
+  font-family: "Bar";
+  src: url("/fonte/bartex/Bartex-Regular.ttf");
+}
+
+#corpo{
+  background-color: #FF98B5;
+}
+#cabecalho {
   background-color: #FF3074;
 }
-#menu{
+
+#menu {
   background-color: #FF3074;
   font-family: Bar;
   color: white;
   font-size: 25px;
+}
+
+#migalhas {
+  background-color: #ffb9d0;
+}
+
+#caixa {
+  background-color: #ffb9d0;
+  height: 35px;
 }
