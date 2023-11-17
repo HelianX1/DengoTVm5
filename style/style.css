@@ -8,6 +8,7 @@
 }
 #cabecalho {
   background-color: #FF3074;
+  
 }
 
 #menu {
@@ -20,8 +21,8 @@
 #migalhas {
   background-color: #ffb9d0;
 }
-
-#caixa {
-  background-color: #ffb9d0;
-  height: 35px;
+#catalago {
+  font-family: Bar;
+  color: white;
+  font-size: 23px;
 }
